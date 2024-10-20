@@ -1,0 +1,1 @@
+- [JavaScript might become two languages (and it's dramatic)](https://youtu.be/m1Sa1Sbyejg)
